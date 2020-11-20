@@ -5,12 +5,13 @@
 
 
 ## 1. Dataset
-1.1 The dataset contains different arm gestures from different participants.
+### 1.1 The dataset contains different arm gestures from different participants.
 - Recording device and wearing position: smartwatch (LG Watch G) running Android Wear, worn at right wrist.
 - Recorded data: 3 axes acceleration measured in G [9.81m/sˆ2], with a target sampling rate of 50Hz.
 - Gestures, participants and samples: 8 gestures, 9 participants. Each participant performed each gesture 30 times, which results in a total of 240 samples per participants, 270 samples per gesture and 2160 samples in total in the data set.
 - The publication describing the dataset in more detail can be found here: http://rainhardfindling.rf.gd/pdfs/publications/Kefer_17_EvaluatingPlacemetArm.pdf
-1.2 Provided csv files:
+
+### 1.2 Provided csv files:
 - Acceleration recordings are split per axis into separate csv files (one file per axis). This implies that e.g. the Nth line of each file belong to the same gesture, participant and sample and represent the according x, y and z axis acceleration recordings.
 - Csv file columns are in this order:
     1. gesture
