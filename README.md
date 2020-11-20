@@ -1,5 +1,12 @@
 # Gesture Recognition
 
+
+
+![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/national-wide.jpg)
+
+
+
+
 ## 1. Dataset
 1.1 The dataset contains different arm gestures from different participants.
 - Recording device and wearing position: smartwatch (LG Watch G) running Android Wear, worn at right wrist.
