@@ -1,10 +1,7 @@
-# Gesture Recognition
-
-
 
 ![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/national-wide.jpg)
 
-
+#                                                            Gesture Recognition
 
 
 ## 1. Dataset
