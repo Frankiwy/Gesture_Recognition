@@ -20,7 +20,7 @@
 
 **Bonus objective**: do gallery independent data partitioning instead using leave subject out cross validation (LSOCV, see slides).
 
-![Gestures image](https://github.com/Frankiwy/Gesture_Recognition/images/gestures_in_dataset.jpg)
+![Gestures image](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/gestures_in_dataset.jpg)
 
 ### Hints
 - Use vectorized commands and clever parametrization of read.table to load all csv files at once.
@@ -46,21 +46,21 @@
 ### Examples
 Visualizing your data/results in a similar way will be beneficial. Gesture samples:
 
-![Gesture sample](https://github.com/Frankiwy/Gesture_Recognition/images/gesture_sample.jpg)
+![Gesture sample](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/gesture_sample.jpg)
 
 Filtered and interpolated gesture samples:
 
-![right left](https://github.com/Frankiwy/Gesture_Recognition/images/right_left.jpg)
-![square triangle](https://github.com/Frankiwy/Gesture_Recognition/images/square_triangle.jpg)
+![right left](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/right_left.jpg)
+![square triangle](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/square_triangle.jpg)
 
 Example features (excerpt):
-![feature extraction](https://github.com/Frankiwy/Gesture_Recognition/images/feature_extraction.jpg)
+![feature extraction](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/feature_extraction.jpg)
 
 Possible model performances:
 
-![model performances](https://github.com/Frankiwy/Gesture_Recognition/images/model_performances.jpg)
+![model performances](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/model_performances.jpg)
 
 Possible confusion matrix:
 
-![CM](https://github.com/Frankiwy/Gesture_Recognition/images/CM.jpg)
+![CM](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/CM.jpg)
 
